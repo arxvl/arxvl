@@ -48,21 +48,21 @@
   <tr>
     <td align="center" width="50%">
       <h3>Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nextjs&theme=dark" />
     </td>
     <td align="center" width="50%">
       <h3>Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,graphql,prisma&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=javascript,python,php,postgresql,nodejs,fastapi&theme=dark" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>Cloud Computing</h3>
-      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,cloudflare,vercel,railway,render&theme=dark" />
+      <h3>Cloud</h3>
+      <img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions&theme=dark" />
     </td>
     <td align="center" width="50%">
       <h3>Tools</h3>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,linux,nginx,bash,git,vscode,postman&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,pnpm&theme=dark" />
     </td>
   </tr>
 </table>
