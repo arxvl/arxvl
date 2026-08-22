@@ -10,7 +10,7 @@
 ```
 
 <p align="center">
-  <img src="images/my-pic.png" alt="Profile Banner" width="700">
+  <img src="" alt="Profile Banner" width="700">
 </p>
 
 </div>
@@ -18,46 +18,6 @@
 <br>
 
 ## `01` ABOUT ME
-
-<table width="100%">
-<tr>
-<td width="40%" valign="top">
-
-<div align="center">
-
-<pre>                                      
-                       =-:::::::::::::::=-                       
-                   :::::::::::::::::::::::::::                   
-                 -:::::::::::::::::::::::::::::-                 
-               -:::::::::::::::::::::::::::::::::-               
-   .          -::::::::::::::::::::::::::::::::::::.         .   
-   #@@@@@@@@*++-::::::::::::::::::::::::::::::::=*%@@@@@@@@@@#   
-    =@@@@@@@@.      @@@@@%+:::::::::::=-:   #@# .@@@@@@@@@@@+    
-      @@@@@@@@       @@@@@@@@@@@@@@@@@*      #@%  @@@@@@@@@.     
-       @@@@@@@@.      @@@@@@@@@@@@@@@@@#      -@@  %@@@@@@       
-        +@@@@@@@.      %@@@@@@@@@@@@@@@@#      :@@  =@@@*        
-         .@@@@@@@:      +@@@@@@@@@@@@@@@@%       @@. .@.         
-          =@@@@@@@-      =@@@@@@@@@@@@@@@@%       @@:.=          
-          -:*@@@@@@=      .@@%=:::=#@@@@@@@@       %*:-          
-          -::-@@@@@@=    :=:::::::::::=@@@@@@     .-::-          
-         .:::::%@@@@@%=:::::::::::::::::::+@@@   :::::-          
-         =:::::::**-:::::::::::::::::::::::::-+-:::::::=         
-         =:::::::::::::::::::::::::::::::::::::::::::::=         
-         :::::+:::::::::::::::::::::::::::::::::::+::::.         
-          .:::::::-=========-:::::::-=========-:::::::.          
-            -:::::::::::::::::-*=*-:::::::::::::::::=            
-              .-:::::::::::::::::::::::::::::::::-.              
-                 .::::::::::::::::::::::::::::::                 
-                      .=-:::::::::::::::=-.                                                        
-</pre>
-
-<sub>◈ stylized identity node — swap in your avatar ◈</sub>
-
-</div>
-
-</td>
-<td width="60%" valign="top">
-
 <div align="center">
 
 ### ◤ PROFILE SUMMARY ◢
@@ -80,11 +40,6 @@
 **◆ Currently Learning**
 
 - `AWS` · `Kubernetes` · `Terraform` · `CI/CD` · `Microservices`
-
-</td>
-</tr>
-</table>
-
 <div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 ## `02` TECH STACK
@@ -149,9 +104,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=arxvl&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
 
 <br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=arxvl&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 > Live contribution snake (set up via GitHub Actions in the `arxvl/arxvl` repo, output path `github-contribution-grid-snake.svg`):
@@ -179,25 +131,3 @@
 | PHP | 8% | ![](https://progress-bar.dev/8/?width=200&color=22d3ee) |
 | SQL | 6% | ![](https://progress-bar.dev/6/?width=200&color=00f5ff) |
 | PostgreSQL | 4% | ![](https://progress-bar.dev/4/?width=200&color=7c3aed) |
-
-<sub>◈ percentages are placeholders — swap in your actual language stats ◈</sub>
-
-<br>
-
-<div align="center">
-<img src="./assets/particles.svg" width="100%"/>
-</div>
-
-<div align="center">
-
-# `ARX`
-
-<img src="./assets/divider.svg" width="100%"/>
-
-### *"Building scalable software for a cloud-first future."*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0B1120,100:050816&height=100&section=footer" width="100%"/>
-
-</div>
