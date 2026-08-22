@@ -81,11 +81,14 @@
 
 <div align="center">
 
-  <img
-    src="https://streak-stats.demolab.com?user=arxvl&theme=dark&hide_border=true&background=00000000&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideLabels=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280"
-    height="165"
-    alt="GitHub Streak"
-  />
+   <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=arxvl&theme=dark&hide_border=true&background=00000000&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideLabels=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280"
+      height="165"
+      alt="GitHub Streak"
+    />
+  </a>
+
 
   <br><br>
 
