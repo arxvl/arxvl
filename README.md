@@ -15,7 +15,13 @@
 
 </div>
 
-<br>
+<div align="center">
+  <img 
+    src="https://readme-svg-wave-divider-generator.vercel.app/wave?type=smooth&color_top=0d1117&color_bottom=161b22&amplitude=12&frequency=1"
+    width="100%"
+    alt="section divider"
+  />
+</div>
 
 ## `01` CURRENT FOCUS
 
@@ -26,7 +32,13 @@
 **◆ Currently Learning**
 
 - `AWS` · `Kubernetes` · `Terraform` · `CI/CD` · `Microservices`
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center">
+  <img 
+    src="https://readme-svg-wave-divider-generator.vercel.app/wave?type=smooth&color_top=0d1117&color_bottom=161b22&amplitude=12&frequency=1"
+    width="100%"
+    alt="section divider"
+  />
+</div>
 
 ## `02` TECH STACK
 
