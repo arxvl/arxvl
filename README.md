@@ -19,10 +19,9 @@
 
 ## `01` CURRENT FOCUS
 
-- 🛰️&nbsp; Cloud Computing
-- 🧩&nbsp; Full Stack
-- ⚙️&nbsp; DevOps Automation
-- 🤖&nbsp; Software Development
+- Cloud Computing
+- Full Stack
+- Software Development
 
 **◆ Currently Learning**
 
@@ -95,23 +94,3 @@
 > <img src="https://raw.githubusercontent.com/arxvl/arxvl/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <div align="center"><img src="./assets/divider.svg" width="100%"/></div>
-
-## `06` LANGUAGES USED
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arxvl&layout=compact&theme=transparent&hide_border=true&title_color=00F5FF&text_color=B6C2CF&bg_color=00000000&langs_count=8" />
-
-</div>
-
-**◆ Language Distribution**
-
-| Language | Usage | |
-|---|---|---|
-| Python | 30% | ![](https://progress-bar.dev/30/?width=200&color=22d3ee) |
-| TypeScript | 22% | ![](https://progress-bar.dev/22/?width=200&color=00f5ff) |
-| JavaScript | 18% | ![](https://progress-bar.dev/18/?width=200&color=38bdf8) |
-| Java | 12% | ![](https://progress-bar.dev/12/?width=200&color=7c3aed) |
-| PHP | 8% | ![](https://progress-bar.dev/8/?width=200&color=22d3ee) |
-| SQL | 6% | ![](https://progress-bar.dev/6/?width=200&color=00f5ff) |
-| PostgreSQL | 4% | ![](https://progress-bar.dev/4/?width=200&color=7c3aed) |
