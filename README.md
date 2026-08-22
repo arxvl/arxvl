@@ -10,7 +10,7 @@
 ```
 
 <p align="center">
-  <img src="" alt="Profile Banner" width="700">
+  <img src="my-pic.png" alt="Profile Banner" width="700">
 </p>
 
 </div>
