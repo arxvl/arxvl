@@ -70,7 +70,11 @@
 </div>
 
 <div align="center">
-  <img src="./assets/divider.svg" width="100%" />
+  <img 
+    src="https://readme-svg-wave-divider-generator.vercel.app/wave?type=smooth&color_top=0d1117&color_bottom=161b22&amplitude=12&frequency=1"
+    width="100%"
+    alt="section divider"
+  />
 </div>
 
 ## `03` CONNECT WITH ME
@@ -85,7 +89,13 @@
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center">
+  <img 
+    src="https://readme-svg-wave-divider-generator.vercel.app/wave?type=smooth&color_top=0d1117&color_bottom=161b22&amplitude=12&frequency=1"
+    width="100%"
+    alt="section divider"
+  />
+</div>
 
 ## `05` GITHUB METRICS
 
@@ -97,8 +107,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arxvl&theme=react-dark&hide_border=true&bg_color=00000000&color=22D3EE&line=00F5FF&point=7C3AED&area=true&area_color=22D3EE" width="100%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=arxvl&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
-
-<br>
 </div>
 
 > Live contribution snake (set up via GitHub Actions in the `arxvl/arxvl` repo, output path `github-contribution-grid-snake.svg`):
