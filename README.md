@@ -107,7 +107,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0B1120)](https://www.linkedin.com/in/ankcris-letada-525577313/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=vercel&logoColor=00F5FF&labelColor=0B1120)](https://your-portfolio.dev)
-[![Email](https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=0B1120)](mailto:your-ankcris@gmail.com.com)
 
 </div>
 
