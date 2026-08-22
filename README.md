@@ -77,23 +77,23 @@
   />
 </div>
 
-# `03` GITHUB METRICS
+## `03` GITHUB METRICS
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com/?user=arxvl&theme=dark&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=00F5FF&sideLabels=B6C2CF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B6C2CF"
-  height="165"
-  alt="GitHub Streak"
-/>
+  <img
+    src="https://streak-stats.demolab.com?user=arxvl&theme=dark&hide_border=true&background=00000000&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideLabels=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280"
+    height="165"
+    alt="GitHub Streak"
+  />
 
-<br><br>
+  <br><br>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=arxvl&theme=react-dark&hide_border=true&bg_color=00000000&color=22D3EE&line=00F5FF&point=7C3AED&area=true&area_color=22D3EE"
-  width="100%"
-  alt="GitHub Activity Graph"
-/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=arxvl&theme=github-dark&hide_border=true&bg_color=00000000&color=9CA3AF&line=DC2626&point=FFFFFF&area=true&area_color=2F2F2F"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 
 </div>
 
