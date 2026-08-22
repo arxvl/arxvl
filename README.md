@@ -8,11 +8,6 @@
 ██║  ██║██║▄█╗    ██║    ██║  ██║██║ ╚═╝ ██║    ██║  ██║██║  ██║██╔╝ ██╗██╗
 ╚═╝  ╚═╝╚═╝╚═╝    ╚═╝    ╚═╝  ╚═╝╚═╝     ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
 ```
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Cloud+Native+Applications;Engineering+Full+Stack+Systems;Learning+Kubernetes+%26+AWS;Automating+Infrastructure;Building+AI+Solutions" alt="Typing SVG"/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
 </div>
 
 <br>
@@ -25,43 +20,30 @@
 
 <div align="center">
 
-<pre>
-                                                 
-                                                 
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  
-  ░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▒░░░░░░░░░░░░░░░░  
-  ░░░░░░░░░░░░▒▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓░░░░░░░░░░░░░░░  
-  ░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓░░░░░░░░░░░░░░  
-  ░░░░░░░░░░░▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓█▓██▓░░░░░░░░░░  
-  ░░░░░░░░▒███▓███████▓▓███████████▓░░░░░░░░░░░  
-  ░░░░░░░░░░▓█████████▓▒▓█████████▒░░░░░░░░░░░░  
-  ░░░░░░░░░░▓▒▒▓██▓▒▒▒▒▒▒▒▒▓▓▓▓▒▒▓▓░░░░░░░░░░░░  
-  ░░░░░░░░░░▓▒▒▒▒▒▒▒▒▒▒▓▓▒▒▒▒▒▒▒▒▒▓░░░░░░░░░░░░  
-  ░░░░░░░░░░▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓░░░░░░░░░░░░  
-  ░░░░░░░░░░▒▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▒░░░░░░░░░░░░  
-  ░░░░░░░▒▓▒▒▓▓▓▒▓▒▒▒▒▒▒▒▒▒▒▓▓▓▓▒▒░▒▒░░░░░░░░░░  
-  ░░░░░▒█▓▒▒▓▓▒▒▒▒▒▒▒▒▓▒▒▒▒▒▒▒▒▓▓▒▒▒▓▓░░░░░░░░░  
-  ░░░░░▓█▒▒▒▒▒▒▓▓▒▒▒▒▒▓▒▒▒▒▒▒▓▓▒▒▒▒▒▓▓░░░░░░░░░  
-  ░░░░░▒▓▒▒▒▒▒▒▒▒▓▓▓▓▓▓▒▒▓▒▓▓▒▒▒▒▒▒▒▓▓▒░░░░░░░░  
-  ░░░░░▒█▒▒▒▒▒▒▒▒▒▒▓▒▒▒▒▒▓▓▒▒▒▒▒▒▒▒▒▓▒▓▒░░░░░░░  
-  ░░░░░▒▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▒▓▓▒▓▓▒░░  
-  ░░░░▓▒▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▓▓▒▒▒▒▒▒▒▒▒▓▓▒▓▓▒▓▒▒▒▓▒░  
-  ░░░░▓▒▓▒▒▓▒▒▒▒▓▒▒▒▒▓▓▒▒▒▒▒▒▒▒▒▒▓▒▒▒▒█▒█▒▒▒▒▓▒  
-  ░░░▒▒▓▓▒▒▒▒▓▓▓▒▒▓▓▒▒▓▒▒▒▒▒▒▒▒▓▓▒▒▒▒▒█▒▓▒▒▒▒▓▒  
-  ░░░▓▒▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▒▒▒▓▓▒▓▒▒▓▓▒░  
-  ░░░▓▒█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▒▓▒▓▒▒▓░░░  
-  ░░░▓▒█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓█▒█▒▓░░░░  
-  ░░░▓▒▓▓▒▒▒▒▒▒▒▒▒▒▒▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▓░░░░░░  
-  ░░░▒▒▒█▓▒▒▒▒▒▒▒▒▒▒▓▒▒▓▒▒▒▒▒▒▒▒▒▓▓█▓█▒▓░░░░░░░  
-  ░░░░▓▒▒▓▒▒▓▓▒▒▒▒▓▒▒▒▒▒▒▓▒▒▒▓█▓▒▒▒▒▒▓▓░░░░░░░░  
-  ░░░░░░▓▒▒▒▒▒▒▒▓█▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▓▓░░░░░░░░  
-  ░░░░░░▓▒▒▒▒▒▒▒▒█▓▒▒▒▒▒▒░░▓▓▒▒▒▒▒▒▒▒▒█░░░░░░░░  
-  ░░░░░░▓▓▒▒▒▒▒▒▒▓▒░░░▒▒░░░▒█▒▒▒▒▒▒▒▒▒█░░░░░░░░  
-  ░░░░░░▒█▒▒▒▒▒▒▒▓▒░░░░░░░░░█▒▒▒▒▒▒▒▒▒▓▒░░░░░░░  
-  ░░░░▒▓▓▓▒▒▒▒▒▒▒▒░░░░░░░░░░░░░▒▒▒▒▒▒░░░░░░░░░░  
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒▓  
-                                                 
-                                                 
+<pre>                                      
+                       =-:::::::::::::::=-                       
+                   :::::::::::::::::::::::::::                   
+                 -:::::::::::::::::::::::::::::-                 
+               -:::::::::::::::::::::::::::::::::-               
+   .          -::::::::::::::::::::::::::::::::::::.         .   
+   #@@@@@@@@*++-::::::::::::::::::::::::::::::::=*%@@@@@@@@@@#   
+    =@@@@@@@@.      @@@@@%+:::::::::::=-:   #@# .@@@@@@@@@@@+    
+      @@@@@@@@       @@@@@@@@@@@@@@@@@*      #@%  @@@@@@@@@.     
+       @@@@@@@@.      @@@@@@@@@@@@@@@@@#      -@@  %@@@@@@       
+        +@@@@@@@.      %@@@@@@@@@@@@@@@@#      :@@  =@@@*        
+         .@@@@@@@:      +@@@@@@@@@@@@@@@@%       @@. .@.         
+          =@@@@@@@-      =@@@@@@@@@@@@@@@@%       @@:.=          
+          -:*@@@@@@=      .@@%=:::=#@@@@@@@@       %*:-          
+          -::-@@@@@@=    :=:::::::::::=@@@@@@     .-::-          
+         .:::::%@@@@@%=:::::::::::::::::::+@@@   :::::-          
+         =:::::::**-:::::::::::::::::::::::::-+-:::::::=         
+         =:::::::::::::::::::::::::::::::::::::::::::::=         
+         :::::+:::::::::::::::::::::::::::::::::::+::::.         
+          .:::::::-=========-:::::::-=========-:::::::.          
+            -:::::::::::::::::-*=*-:::::::::::::::::=            
+              .-:::::::::::::::::::::::::::::::::-.              
+                 .::::::::::::::::::::::::::::::                 
+                      .=-:::::::::::::::=-.                                                        
 </pre>
 
 <sub>◈ stylized identity node — swap in your avatar ◈</sub>
@@ -77,19 +59,18 @@
 
 **NAME**&nbsp;&nbsp;`ARX`
 
-**ROLE**&nbsp;&nbsp;`Cloud Engineering`&nbsp;·&nbsp;`Software Engineering`&nbsp;·&nbsp;`Backend Development`
+/***ROLE**&nbsp;&nbsp;`Cloud Engineering`&nbsp;·&nbsp;`Software Engineering`&nbsp;·&nbsp;`Backend Development`*/
 
 </div>
 
-> A cloud-native builder focused on shipping scalable backend systems, resilient DevOps pipelines, and AI-powered software — with an obsession for clean architecture and automation.
+> An aspiring cloud engineer
 
 **◆ Current Focus**
 
 - 🛰️&nbsp; Cloud Computing
-- 🧩&nbsp; Backend APIs
+- 🧩&nbsp; Full Stack
 - ⚙️&nbsp; DevOps Automation
-- 🤖&nbsp; AI & Machine Learning
-- 🌐&nbsp; Distributed Systems
+- 🤖&nbsp; Software Development
 
 **◆ Currently Learning**
 
@@ -137,42 +118,7 @@
 
 <div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
-## `03` FOCUS FIELD
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ &nbsp;Cloud Engineering
-Building scalable cloud-native infrastructure and deployment pipelines.
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ &nbsp;Software Engineering
-Designing maintainable full-stack applications with clean architecture.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 &nbsp;DevOps & Automation
-Containerization, CI/CD, Infrastructure as Code, Linux automation.
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 &nbsp;AI Engineering
-Machine learning applications integrated into real-world software systems.
-
-</td>
-</tr>
-</table>
-
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
-
-## `04` CONNECT WITH ME
+## `03` CONNECT WITH ME
 
 <div align="center">
 
