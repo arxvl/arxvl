@@ -77,21 +77,54 @@
   />
 </div>
 
-## `03` GITHUB METRICS
+# `03` GITHUB METRICS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arxvl&show_icons=true&theme=transparent&hide_border=true&title_color=00F5FF&icon_color=22D3EE&text_color=B6C2CF&bg_color=00000000" />
-<img height="165" src="https://streak-stats.demolab.com/?user=arxvl&theme=dark&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=00F5FF&sideLabels=B6C2CF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B6C2CF" />
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=arxvl&show_icons=true&theme=transparent&hide_border=true&title_color=00F5FF&icon_color=22D3EE&text_color=B6C2CF&bg_color=00000000"
+        height="165"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://streak-stats.demolab.com/?user=arxvl&theme=dark&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=00F5FF&sideLabels=B6C2CF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B6C2CF"
+        height="165"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arxvl&theme=react-dark&hide_border=true&bg_color=00000000&color=22D3EE&line=00F5FF&point=7C3AED&area=true&area_color=22D3EE" width="100%"/>
+<br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=arxvl&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=arxvl&theme=react-dark&hide_border=true&bg_color=00000000&color=22D3EE&line=00F5FF&point=7C3AED&area=true&area_color=22D3EE"
+  width="100%"
+  alt="GitHub Activity Graph"
+/>
+
+<br>
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=arxvl&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+  width="100%"
+  alt="GitHub Trophies"
+/>
+
+<br>
+
+<img
+  src="https://raw.githubusercontent.com/arxvl/arxvl/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="GitHub Contribution Snake"
+/>
+
 </div>
-
-> Live contribution snake (set up via GitHub Actions in the `arxvl/arxvl` repo, output path `github-contribution-grid-snake.svg`):
->
-> <img src="https://raw.githubusercontent.com/arxvl/arxvl/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <div align="center">
   <img 
