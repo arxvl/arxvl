@@ -17,20 +17,7 @@
 
 <br>
 
-## `01` ABOUT ME
-<div align="center">
-
-### ◤ PROFILE SUMMARY ◢
-
-**NAME**&nbsp;&nbsp;`ARX`
-
-/***ROLE**&nbsp;&nbsp;`Cloud Engineering`&nbsp;·&nbsp;`Software Engineering`&nbsp;·&nbsp;`Backend Development`*/
-
-</div>
-
-> An aspiring cloud engineer
-
-**◆ Current Focus**
+## `01` CURRENT FOCUS
 
 - 🛰️&nbsp; Cloud Computing
 - 🧩&nbsp; Full Stack
@@ -46,37 +33,34 @@
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,php,mysql&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css&theme=dark" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,graphql,prisma&theme=dark" />
-
-**Cloud**
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,cloudflare,vercel,railway,render&theme=dark" />
-
-**DevOps**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,linux,nginx,bash&theme=dark" />
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis&theme=dark" />
-
-**AI / Data**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy,sklearn,hf&theme=dark" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css&theme=dark" />
+    </td>
+    <td align="center" width="50%">
+      <h3>Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,graphql,prisma&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Cloud Computing</h3>
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,cloudflare,vercel,railway,render&theme=dark" />
+    </td>
+    <td align="center" width="50%">
+      <h3>Tools</h3>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,linux,nginx,bash,git,vscode,postman&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</div>
 
 ## `03` CONNECT WITH ME
 
