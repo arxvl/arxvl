@@ -77,27 +77,7 @@
   />
 </div>
 
-## `03` CONNECT WITH ME
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0B1120)](https://github.com/arxvl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0B1120)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=vercel&logoColor=00F5FF&labelColor=0B1120)](https://your-portfolio.dev)
-[![Email](https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=0B1120)](mailto:your-email@example.com)
-[![Discord](https://img.shields.io/badge/Discord-050816?style=for-the-badge&logo=discord&logoColor=00F5FF&labelColor=0B1120)](https://discord.com/users/your-id)
-
-</div>
-
-<div align="center">
-  <img 
-    src="https://readme-svg-wave-divider-generator.vercel.app/wave?type=smooth&color_top=0d1117&color_bottom=161b22&amplitude=12&frequency=1"
-    width="100%"
-    alt="section divider"
-  />
-</div>
-
-## `05` GITHUB METRICS
+## `03` GITHUB METRICS
 
 <div align="center">
 
@@ -113,4 +93,21 @@
 >
 > <img src="https://raw.githubusercontent.com/arxvl/arxvl/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center">
+  <img 
+    src="https://readme-svg-wave-divider-generator.vercel.app/wave?type=smooth&color_top=0d1117&color_bottom=161b22&amplitude=12&frequency=1"
+    width="100%"
+    alt="section divider"
+  />
+</div>
+
+## `04` CONNECT WITH ME
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0B1120)](https://www.linkedin.com/in/ankcris-letada-525577313/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=vercel&logoColor=00F5FF&labelColor=0B1120)](https://your-portfolio.dev)
+[![Email](https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=0B1120)](mailto:your-ankcris@gmail.com.com)
+
+</div>
+
