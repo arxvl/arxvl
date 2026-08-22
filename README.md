@@ -82,7 +82,7 @@
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com/?user=arxvl&theme=dark&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=00F5FF&sideLabels=B6C2CF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B6C2CF"
+  src="https://streak-stats.demolab.com/?user=arxvl&theme=dark&hide_border=true&background=00000000&ring=7A1B01&fire=E03000&currStreakLabel=7A1B01&sideLabels=B6C2CF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B6C2CF"
   height="165"
   alt="GitHub Streak"
 />
