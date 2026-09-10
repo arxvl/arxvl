@@ -52,6 +52,8 @@
 
 <div align="center">
 
+<div align="center">
+
 <img
  src="https://streak-stats.demolab.com/?user=arxvl&theme=dark&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=00F5FF&sideLabels=B6C2CF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B6C2CF"
  height="165"
@@ -75,6 +77,7 @@
 />
 
 </div>
+
 
 
 ## `04` CONNECT WITH ME
