@@ -48,24 +48,15 @@
 * **Infrastructure:** ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 * **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## `03` GITHUB METRICS
-
-<## `03` GITHUB METRICS
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arxvl&show_icons=true&theme=dark&hide_border=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arxvl&theme=dark&hide_border=true" width="49%" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arxvl&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
-
+  <img 
+    src="https://readme-svg-wave-divider-generator.vercel.app/wave?type=smooth&color_top=0d1117&color_bottom=161b22&amplitude=12&frequency=1"
+    width="100%"
+    alt="section divider"
+  />
 </div>
 
-
-
-## `04` CONNECT WITH ME
+## `03` CONNECT WITH ME
 
 <div align="center">
 
