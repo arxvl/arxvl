@@ -50,23 +50,32 @@
 
 ## `03` GITHUB METRICS
 
-<<div align="center">
+<div align="center">
 
 <img
-  src="https://streak-stats.demolab.com/?user=arxvl&theme=dark&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=00F5FF&sideLabels=B6C2CF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B6C2CF"
-  height="165"
-  alt="GitHub Streak"
+ src="https://streak-stats.demolab.com/?user=arxvl&theme=dark&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=00F5FF&sideLabels=B6C2CF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B6C2CF"
+ height="165"
+ alt="GitHub Streak"
 />
 
 <br><br>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=arxvl&theme=react-dark&hide_border=true&bg_color=00000000&color=22D3EE&line=00F5FF&point=7C3AED&area=true&area_color=22D3EE"
-  width="100%"
-  alt="GitHub Activity Graph"
+ src="https://github-readme-activity-graph.vercel.app/graph?username=arxvl&from=2024-01-01&to=2026-12-31&theme=react-dark&hide_border=true&bg_color=00000000&color=22D3EE&line=00F5FF&point=7C3AED&area=true&area_color=22D3EE"
+ width="100%"
+ alt="GitHub Contribution Activity"
+/>
+
+<br><br>
+
+<img
+ src="https://github-readme-stats.vercel.app/api?username=arxvl&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=B6C2CF&icon_color=7C3AED&include_all_commits=true&count_private=true"
+ height="180"
+ alt="GitHub Statistics"
 />
 
 </div>
+
 
 ## `04` CONNECT WITH ME
 
