@@ -50,23 +50,16 @@
 
 ## `03` GITHUB METRICS
 
+<## `03` GITHUB METRICS
+
 <div align="center">
 
-  <!-- GitHub Overview / Total Contributions -->
-  <img
-    src="./assets/github/overview.dark.svg"
-    width="100%"
-    alt="GitHub Overview"
-  />
+<img src="https://github-readme-stats.vercel.app/api?username=arxvl&show_icons=true&theme=dark&hide_border=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arxvl&theme=dark&hide_border=true" width="49%" alt="GitHub Streak" />
 
-  <br><br>
+<br><br>
 
-  <!-- Lifetime Contribution History -->
-  <img
-    src="./assets/github/lifetime.dark.svg"
-    width="100%"
-    alt="GitHub Contribution History from 2024 to Present"
-  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arxvl&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
